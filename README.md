@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose Moreno,
-- 👀 I’m trying to become a self taught web developer, currently I have like about 6 months of this journey and doing quite well...At least I hope so. 
-- 🌱 I’m currently learning react js, javascript maybe in a few months I'm going to start with tailwind.
-- Most of the time I'm doing frontend Mentor challenges
+- 👀 I’m trying to become a self taught web developer.
+- 🌱 I’m currently learning Angular.
+
 
 
 <!---
