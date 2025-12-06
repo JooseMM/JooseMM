@@ -24,7 +24,7 @@ When I’m not coding, I enjoy playing musical instruments, working out, and usi
 - Maintained version control with Git, following agile methodologies.  
 
 ## 🎯 What I’m Looking For  
-I’m open to **full‑stack or backend roles**, especially in environments where I can grow and learn.  
+I’m open to **full‑stack or front-end roles**, especially in environments where I can grow and learn.  
 I’m interested in working on meaningful projects that combine good design, clean code, and real-world impact.  
 
 ## 📫 Get in Touch  
