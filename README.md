@@ -10,18 +10,7 @@ When I’m not coding, I enjoy playing musical instruments, working out, and usi
 - **Backend / APIs / Services**: Node.js, NestJS, microservices, JWT authentication, SQL / NoSQL databases  
 - **Mobile / Android**: Kotlin + Android native apps  
 - **Dev Tools / Methods**: Git version control, agile workflows (JIRA), testing, payment gateways, PDF/invoice generation, REST APIs  
-- Comfortable working on both **web and mobile platforms**, full‑stack solutions from frontend to backend  
-
-## 📚 Experience  
-
-### 🏢 Intelsoft — Full‑stack Developer (2025)  
-- Worked on web and mobile development using Angular, NestJS, Kotlin/Android.  
-- Developed microservices with Node.js + TypeScript, implemented authentication and payment flows, managed databases (SQL / NoSQL).  
-
-### 👨‍💻 Freelance — Full‑stack Developer (2025)  
-- Built web applications using Angular, and native Android apps.  
-- Backend services built with NestJS / Node.js + TypeScript, using TypeORM / MongoDB, working with payment gateways + JWT auth.  
-- Maintained version control with Git, following agile methodologies.  
+- Comfortable working on both **web and mobile platforms**, full‑stack solutions from frontend to backend   
 
 ## 🎯 What I’m Looking For  
 I’m open to **full‑stack or front-end roles**, especially in environments where I can grow and learn.  
